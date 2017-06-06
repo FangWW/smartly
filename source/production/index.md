@@ -15,7 +15,7 @@ date: 2017-05-29 23:08:23
 ***
 |图标 | 下载地址|
 | ------------- |:-------------:|
-| <img src="https://github.com/FangWW/jpress-project/blob/master/jpress/jpress-web-template-ui3/src/main/webapp/templates/ui3/images/coming-soon3.png?raw=true" width=70 height=70/>    | [JPress Fork项目](https://github.com/FangWW/jpress-project) |
+| <img src="https://raw.githubusercontent.com/FangWW/jpress-project/master/jpress/jpress-web-template-ui3/src/main/webapp/templates/ui3/images/coming-soon3.png" width=70 height=70/>    | [JPress Fork项目](https://github.com/FangWW/jpress-project) |
 
 
 ### 应用
