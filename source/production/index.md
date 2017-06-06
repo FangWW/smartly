@@ -4,12 +4,23 @@ date: 2017-05-29 23:08:23
 
 ---
 
-| 应用| 下载地址|
+### 游戏
+***
+| 图标| 下载地址|
 | ------------- |:-------------:|
-| <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/calculator.png" width=70 height=70/>   | [聪明计算器](http://android.myapp.com/myapp/detail.htm?apkName=com.w.cal) |
-| <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/screenFilter.png" width=70 height=70/>  | [ 聪明屏幕过滤](http://android.myapp.com/myapp/detail.htm?apkName=com.w.screen_f) |
+| <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/face_jump.png" width=70 height=70/>    | [跳跃的表情](http://www.coolapk.com/game/com.w.jump) |
 
 
-| 游戏| 下载地址|
+### Java Web
+***
+|图标 | 下载地址|
 | ------------- |:-------------:|
-| 跳跃的表情    | [跳跃的表情](http://smartly.coding.me/) |
+| <img src="https://github.com/FangWW/jpress-project/blob/master/jpress/jpress-web-template-ui3/src/main/webapp/templates/ui3/images/coming-soon3.png?raw=true" width=70 height=70/>    | [JPress Fork项目](https://github.com/FangWW/jpress-project) |
+
+
+### 应用
+***
+|图标| 下载地址|
+| ------------- |:-------------:|
+| <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/calculator.png" width=70 height=70/>   | [聪明计算器](http://www.coolapk.com/game/com.w.cal) |
+| <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/screenFilter.png" width=70 height=70/>  | [ 聪明屏幕过滤](http://www.coolapk.com/game/com.w.screen_f) |
