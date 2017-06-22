@@ -1,10 +1,7 @@
-﻿---
-title: Android 相关博客、资讯以及工具网站索引
+﻿title: Android 相关博客、资讯以及工具网站索引
 date: 2017-06-15 23:50:04
 tags:
 ---
-
-
 
 
 收录国内外知名 Android 开发者的个人、团队博客，常用资讯网站以及开发辅助工具网站。属于个人信息汇总，以方便检索查阅。
@@ -271,6 +268,11 @@ tags:
 ### 移动开发每周阅读清单
 
 *   博客地址：[移动开发前线](http://mobilefrontier.github.io/)
+
+### H4de5ing's Blog
+
+*   博客地址：[19code](http://19code.com/)
+
 
 ## Android 设计博客
 
