@@ -8,7 +8,7 @@ date: 2017-05-29 23:08:23
 ***
 | 图标| 下载地址|
 | ------------- |:-------------:|
-| <img src="http://image.coolapk.com/apk_logo/2017/0622/app_launcher-for-146583-o_1bj7282gq7he1om9mp61go2mq-uid-843989.png" width=70 height=70/>    | [Mind:提高专注度](http://www.coolapk.com/apk/com.w.schulte) |
+| <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/schulte.png" width=70 height=70/>    | [Mind:提高专注度](http://www.coolapk.com/apk/com.w.schulte) |
 | <img src="https://raw.githubusercontent.com/FangWW/makedown_demo/master/img/face_jump.png" width=70 height=70/>    | [跳跃的表情](http://www.coolapk.com/game/com.w.jump) |
 
 
