@@ -1,7 +1,9 @@
 ﻿---
 title: java web 项目从eclipse迁移到intelliJ IDEA
+
 date: 2017-08-15 23:02:57
-tags:
+cover: https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1.png
+
 ---
 
 
