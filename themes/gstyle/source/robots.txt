@@ -1,0 +1,4 @@
+
+User-agent: *
+Disallow: 
+Sitemap: http://panzijiang.com/sitemap.xml

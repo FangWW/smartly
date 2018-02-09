@@ -1,0 +1,45 @@
+﻿language: zh-CN
+
+# main menu navigation
+menu:
+  home: /
+  archives: /archives
+  tools: /tools
+  production: /production
+  about: /about
+
+
+head:
+    keywords: Mind,提高专注度,深圳,Android,Java,WEB,IT,技术,互联网,生活,学生
+    description: IT、生活、技巧大杂烩
+
+
+# Miscelaneous
+favicon: /favicon.ico
+
+show_post_category: true
+show_post_tags: true
+
+active_nav: false # show active status on nav menu
+
+sidebar: true # whether to show the sidebar
+widgets:
+  # - category
+  # - tag
+  # - tagcloud
+  # - archive
+  - recent_posts
+  - links
+links:
+  - title: "GitHub"
+    url: http://www.github.com/FangWW
+    intro: "GITHUB"
+
+# disqus_shortname: fangjw
+# duoshuo_shortname: fangjw
+#site statistic
+#google_analytics:  
+baidu_analytics: 4279176d249d3665968eabda2797410d
+#baidu_analytics: 
+
+
