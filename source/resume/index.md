@@ -13,27 +13,20 @@
 
 ## 求职意向
 
- - 期望职位：高级Android/全职
- - 期望薪资：面议
- - 期望城市：深圳
+ - 期望职位：高级Android/全职/深圳/面议
 
 ## 技能清单
- - 擅长模块化，组件化，熟练插件化App开发。
- - 擅长降低bug率，提升App稳定性和性能，喜欢解决疑难bug。
- - 熟练使用常用设计模式，数据结构，代码整理重构优化，svn或git版本控制。
- - 擅长使用Android平台API，Android的jni使用 ，Android UI控件。
- - 擅长使用Android自定义UI，多线程，网络操作，数据存储，json与xml解析。
- - Android机型屏幕适配，Material Design风格，Android权限处理，优化内存网络等方面。
- - 熟悉使用Struts，Hibernate, Spring开源框架和使用J2EE核心技术进行Web项目开发。
- - 能很好的应用Javascript、Html、Css、Xml 等技术。
- - 熟练使用SQLSERVER、MySQL数据库。
+ - 4.5年Android移动开发，半年J2EE开发。
+ - 熟悉模块化，组件化，熟练插件化App开发。
+ - 熟悉降低bug率，提升App稳定性和性能，喜欢解决疑难bug。
+ - 熟练代码整理重构优化，使用常用设计模式，数据结构，svn或git版本控制。
+ - 熟悉Android自定义UI，Android权限处理，优化内存网络，Android机型屏幕适配，Android API，Material Design风格等方面。
+ - 熟悉使用Struts，Hibernate, Spring进行Web项目开发，MySQL数据库操作,应用Javascript、Html、Css、Xml 等技术。
+ - 能主动接受任务，推动开发管理。
 
-## 常用开发工具
- - Android studio/Intellj IDEA/Charles/Postman/Photoshop/Json editor/elipse/Mysql/Ubuntu/Tomcat/Compare/Git/SVN/...
-
-## 工作经历
- - 2016.8—至今 / 深圳市易车合创科技有限公司 / Android主程&Java web开发
- - 2014.4—2016.6 / 深圳市铺铺旺电子商务有限公司 / Android开发
+## 时间经历
+ - 2016.8—至今 / 深圳市易车合创科技有限公司 / Android高级开发&Java web开发
+ - 2014.4—2016.5 / 深圳市铺铺旺电子商务有限公司 / Android开发
  - 2013.8—2014.4 / 深圳市爱贝信息技术有限公司 / Android开发
 
 ## 项目经验
